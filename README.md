@@ -39,7 +39,7 @@ Progetto realizzato da studenti di **Ingegneria Informatica – sede di Mantova*
 - [Hartaj Singh](https://github.com/hartaj-bajwa)
 
 ## 📜 Licenza
-Questo progetto è distribuito sotto licenza MIT (o specificare altra licenza).  
+Questo progetto è distribuito sotto licenza MIT.  
 
 ---
 💡 *Il progetto nasce per proporre una visione innovativa dell’integrazione ERP–AI e dare un contributo alla memoria di Luca Troiano.*
