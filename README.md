@@ -36,7 +36,7 @@ Questo progetto è stato sviluppato nell’ambito del **Premio di Studio “Luca
 Progetto realizzato da studenti di **Ingegneria Informatica – sede di Mantova** nell’ambito del concorso.  
 - [Saajan Saini](https://github.com/saajann)
 - [Daniele Primavera](https://github.com/danieleprimavera)
-- [Hartaj Singh](https://github.com/hartaj-bajwa)
+- [Hartaj Bajwa Singh](https://github.com/hartaj-bajwa)
 
 ## 📜 Licenza
 Questo progetto è distribuito sotto licenza MIT.  
